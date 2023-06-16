@@ -1,0 +1,26 @@
+.App {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+input{
+    margin: 10px;
+    border-radius: 8px;
+    box-shadow: 4px;
+}
+
+.task {
+    border: 2px solid rgb(81, 0, 0);
+    width: 40%;
+    text-align: center;
+    border-radius: 8px;
+    margin: 10px;
+    font-size: 15px;
+}
+
+button{
+    margin: 5px;
+    border-radius: 8px;
+}
